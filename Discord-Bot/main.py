@@ -165,4 +165,4 @@ async def Aragón(ctx):
     await ctx.send(embed=embed)
 
 
-client.run('Nzk0NTQwMzM1ODg3OTQxNjMz.X-8TWQ.iYwYQfSVXDmX2KQqY3rJYPDSYoQ')
+client.run('TOKEN')
